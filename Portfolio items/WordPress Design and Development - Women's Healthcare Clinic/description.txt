@@ -1,0 +1,26 @@
+Web Design Deliverables
+Style GuideLanding PageWebsite
+Web Design Skills
+Graphic DesignResponsive DesignWeb DevelopmentSEO
+UX/UI Design Software
+Adobe IllustratorAdobe Photoshop
+Website Builders & CMS Platforms
+WordPress
+WordPress Plugins & Tools
+WP RocketContact Form 7Yoast SEO
+Web Design Languages
+JavaScriptPHPCSSHTML5CSS 3HTML
+Business Size Experience
+Business with 1-9 Employees
+
+Project description
+Women's Integrative Health is a clinic in San Diego County founded by and specializing in the health of women. The founders had a starter website that did not project the woman-friendly, expert care image they desired. I created a site for them that made full use of the professional photography they commissioned for the purpose. Project features included:
+
+✅ Clean and minimalist UX emphasizing approachable expertise
+✅ Content organized for straightforward patient communication
+✅ Designed to embody the qualities of women-friendly healthcare
+
+Click the project URL link below for more video and images ⇩
+
+
+https://wavepoint.co/portfolio/womens-integrative-health/

@@ -1,0 +1,34 @@
+Full Stack Development Deliverables
+Website OptimizationWeb Development
+Full Stack Development Skills
+Website Security
+Content Writing Deliverables
+Website Content
+Front-End Development Deliverables
+Web DesignWordPress Development
+Social Media Platform Type
+Social Media Website
+CMS Customization Deliverables
+Website Customization
+CMS Development Deliverables
+Website RedesignWebsiteWebsite Migration
+Mobile Design Skills
+Responsive Design
+Programming Languages
+PHPHTML
+Website Builders & CMS Platforms
+WordPress
+
+
+Project description
+❍ Challenge
+The client is a philosopher, author, speaker, and ER doctor who wanted to create an online destination for his audience and a showcase for his book. It needed to reflect his passions as well as the culture he wanted to inspire.
+
+❑ Solution
+A design inspired by the client's book cover -- and more broadly his mission to explore ideas and philosophical pursuits -- propels his audience through a user experience that is equally grounded in welcoming colors and shapes.
+
+✰ Outcome
+The client's site reflects his detailed taste down to every pixel, and he is able to administer the site content himself. He was so pleased with the result he made this project the topic of an animated video review he produced at his own expense! Watch it below.
+
+
+https://wavepoint.co

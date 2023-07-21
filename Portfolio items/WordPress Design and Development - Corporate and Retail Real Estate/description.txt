@@ -1,0 +1,26 @@
+Web Design Deliverables
+Style GuideWebsite RedesignLanding PageWebsite
+Web Design Skills
+Graphic DesignResponsive DesignWeb DevelopmentSEO
+UX/UI Design Software
+Adobe IllustratorAdobe Photoshop
+Website Builders & CMS Platforms
+WordPress
+WordPress Plugins & Tools
+WP RocketContact Form 7Yoast SEO
+Web Design Languages
+JavaScriptPHPCSSHTML5CSS 3HTML
+Business Size Experience
+Business with 100-999 Employees
+
+Project description
+Cityscape Phoenix is the jewel in the crown of RED Development's nationally recognized real estate projects. I designed and developed a distinguished interactive online destination that integrated restaurants, retail, and hospitality to reflect the property's signature style. Project features included:
+
+✅ Integration of multiple destinations into a cohesive consumer portal
+✅ Creation of a custom dynamic store directory
+✅ Fully customized and interactive map
+✅ Integration of retail APIs to power the display of deals and events
+✅ Development of a custom CMS where local property managers control content
+
+
+https://wavepoint.co/portfolio/cityscape-phoenix/

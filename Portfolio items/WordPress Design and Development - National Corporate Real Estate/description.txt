@@ -1,0 +1,32 @@
+Web Design Deliverables
+Style GuideWebsite RedesignLanding PageWebsite
+Web Design Skills
+Graphic DesignResponsive DesignWeb DevelopmentSEO
+UX/UI Design Software
+Adobe IllustratorAdobe Photoshop
+Website Builders & CMS Platforms
+WordPress
+WordPress Plugins & Tools
+WP RocketContact Form 7Yoast SEO
+Web Design Languages
+JavaScriptPHPCSSHTML5CSS 3HTML
+Business Size Experience
+Business with 100-999 Employees
+Skills
+web-designwebsite-customizationwordpress-multisitewebsite-developmentplugins-for-wordpressresponsive-web-designwordpress-websitewebsite-redesignwordpresswebsite
+
+Project description
+RED Development is one of America's top corporate real estate companies. A luxury marketing agency asked Wavepoint to join them as a design + development partner to create a website ecosystem for RED worthy of a significant marketing spend. I redesigned and redeveloped the complete RED network, starting with its corporate website. Project features included:
+
+✅ Top to bottom corporate website redesign
+✅ Custom maps to display a complex library of properties
+✅ Property landing pages searchable by keyword and location
+✅ Bold design leveraging video, vibrant colors, and clean typography
+✅ White label agency partnership
+✅ WordPress multisite
+✅ Implementation of technical SEO requirements
+
+Click the project URL link below for more video and images ⇩
+
+
+https://wavepoint.co/portfolio/red-development/

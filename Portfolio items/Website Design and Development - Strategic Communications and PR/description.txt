@@ -1,0 +1,27 @@
+Full Stack Development Deliverables
+Web Development
+Front-End Development Deliverables
+Web Design
+CMS Customization Deliverables
+Website Customization
+CMS Development Deliverables
+Website RedesignWebsiteWebsite OptimizationWebsite Migration
+Mobile Design Skills
+Responsive Design
+Programming Languages
+PHPHTML
+Website Builders & CMS Platforms
+WordPress
+
+Project description
+❍ Challenge
+A D.C.-based strategic communications firm needed a complete redesign and redevelopment to better reflect their experience, showcase their team members, and publish their blog for maximum exposure in social channels.
+
+❑ Solution
+A stark design spotlighting black-and-white photography communicates the client's services visually as well as in copy, with multiple opportunities for textual interplay. Against this steely monochrome the firm's vibrant red provides just the right amount of functional ornamentation.
+
+✰ Outcome
+The firm's website quickly and clearly establishes their credentials with a unique design that draws clients in and suggests these professionals know how to leverage uniqueness in their clients' communications campaigns.
+
+
+https://wavepoint.co

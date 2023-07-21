@@ -1,0 +1,29 @@
+Full Stack Development Deliverables
+Website OptimizationWeb Development
+Front-End Development Deliverables
+Web DesignWordPress Development
+Social Media Platform Type
+Social Media Website
+CMS Customization Deliverables
+Website Customization
+CMS Development Deliverables
+Website RedesignWebsite
+Mobile Design Skills
+Responsive Design
+Programming Languages
+PHPCSSHTML
+Website Builders & CMS Platforms
+WordPress
+
+
+Project description
+❍ Challenge
+A major Hollywood film and television editor who has worked with the top storytellers wanted a website that showcased her work simply, but with a unique flair, and allowed producers to easily find and contact her online.
+
+❑ Solution
+A dark-mode focuses attention on the work and reinforces the theatrical nature of the work showcased. Knowing that producers are often working on their phone, an Instagram-style scrolling experience took center stage.
+
+✰ Outcome
+The editor's website is now the primary way producers contact her with new work. Its ease of use and subtle understatement reflect the editing style of the client. It is easy to update on the backend to show her latest projects.
+
+https://wavpeoint.co

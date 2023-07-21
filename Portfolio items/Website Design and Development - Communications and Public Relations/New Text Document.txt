@@ -1,0 +1,33 @@
+Full Stack Development Deliverables
+Website OptimizationWeb Development
+Full Stack Development Skills
+Website Security
+Content Writing Deliverables
+Website Content
+Front-End Development Deliverables
+Web DesignWordPress Development
+Social Media Platform Type
+Social Media Website
+CMS Customization Deliverables
+Website Customization
+CMS Development Deliverables
+Website RedesignWebsiteWebsite Migration
+Mobile Design Skills
+Responsive Design
+Programming Languages
+PHPHTML
+Website Builders & CMS Platforms
+WordPress
+
+Project description
+❍ Challenge
+An existing client was founding a new communications firm. She needed a website that conveyed many of the same themes and services we addressed previously but with a different look and feel to distinguish the brands visually.
+
+❑ Solution
+Where our first website made use of black-and-white, the new firm's website leverages a vivid color scheme and a custom set of scroll-based animations that play with the circle accent in their logo.
+
+✰ Outcome
+The firm launched with an eye-catching services showcase whose video backgrounds and dynamic animations translate equally well to mobile screens. Clients are treated to a user experience at once highly distinctive and totally differentiated from the first site.
+
+
+https://wavepoint.co

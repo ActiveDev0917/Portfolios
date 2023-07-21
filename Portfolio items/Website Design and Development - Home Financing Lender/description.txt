@@ -1,0 +1,33 @@
+Full Stack Development Deliverables
+Website OptimizationWeb Development
+Full Stack Development Skills
+Website Security
+Content Writing Deliverables
+Website Content
+Front-End Development Deliverables
+Web DesignWordPress Development
+Social Media Platform Type
+Social Media Website
+CMS Customization Deliverables
+Website Customization
+CMS Development Deliverables
+Website RedesignWebsiteWebsite Migration
+Mobile Design Skills
+Responsive Design
+Programming Languages
+PHPHTML
+Website Builders & CMS Platforms
+WordPress
+
+Project description
+❍ Challenge
+A home financing startup needed a website that defined their brand to a wide audience, established it as friendly and trustworthy, and made the complex details of co-financing transparent through comparison with mortgages.
+
+❑ Solution
+Family-oriented photography mixed with a traditional finance colors creates a user experience that invites home buyers to contemplate a co-financing arrangement that puts more expensive homes within financial reach.
+
+✰ Outcome
+The website launched with a complex series of custom interactive graphs and charts custom-built calculators providing customers with a powerful deal structure comparison tool. The team is able to manage the content of the website in-house as their marketing approach evolves.
+
+
+https://wavepoint.co

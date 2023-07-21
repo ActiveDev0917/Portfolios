@@ -1,0 +1,33 @@
+Full Stack Development Deliverables
+Website Optimization
+Full Stack Development Skills
+Website Security
+Content Writing Deliverables
+Website Content
+Front-End Development Deliverables
+Web DesignWeb Development
+Social Media Platform Type
+Social Media Website
+CMS Customization Deliverables
+Website Customization
+CMS Development Deliverables
+Website RedesignWebsiteWebsite Migration
+Mobile Design Skills
+Responsive Design
+Programming Languages
+PHPHTML
+Website Builders & CMS Platforms
+WordPress
+
+Project description
+❍ Challenge
+A world-renowned gynecological oncologist had an outdated site that did not reflect the importance of his practice. His staff needed a resource that helped facilitate daily routines while offering hope and information to patients.
+
+❑ Solution
+The project demanded a parallel evolution of design and content, with a smart architecture that could evolve while supporting an extraordinary number of menus and page structures. Clarity of design and warmth of welcome drove the twin efforts to make a space where patients feel safe and understood.
+
+✰ Outcome
+Patients seeking specialized care receive a comprehensive overview of the practice, their condition, and the treatment options available to them. Office staff maintain the website and use it daily to facilitate patient interaction.
+
+
+https://wavepoint.co

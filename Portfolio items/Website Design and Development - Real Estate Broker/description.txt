@@ -1,0 +1,33 @@
+Full Stack Development Deliverables
+Website OptimizationWeb Development
+Full Stack Development Skills
+Website Security
+Content Writing Deliverables
+Website Content
+Front-End Development Deliverables
+Web Design
+Social Media Platform Type
+Social Media Website
+CMS Customization Deliverables
+Website Customization
+CMS Development Deliverables
+Website RedesignWebsiteWebsite Migration
+Mobile Design Skills
+Responsive Design
+Programming Languages
+PHPHTML
+Website Builders & CMS Platforms
+WordPress
+
+Project description
+❍ Challenge
+A successful broker relied heavily on an outdated website to show listings and capture leads. He wanted to reinvent, following the inspiration of a nationally marketed broker but within strict branding limitations set by the brokerage.
+
+❑ Solution
+Designing a power-packed long-form home page solved early questions about reconciling the personal and brokerage brands. A unique hybrid style balanced the client's personal brand desires while adhering to brokerage rules.
+
+✰ Outcome
+A state-of-the-art WordPress solution that combines a custom-optimized commercial theme with a fully custom plugin handling the API work allows the client to maintain the site in-house with regular design and content updates.
+
+
+https://wavepoint.co

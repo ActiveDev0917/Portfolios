@@ -1,0 +1,25 @@
+Front-End Development Deliverables
+Web DesignWebsiteLanding PageWeb DevelopmentResponsive DesignEcommerce WebsiteWordPress Development
+Front-End Development Languages
+JavaScriptHTML5CSS 3HTMLCSS
+Front-End Development Skills
+Adobe PhotoshopGoogle AnalyticsWordPressjQuery
+Business Size Experience
+Business with 10-99 Employees
+Skills
+website-customizationwebsite-developmente-commercewoocommerceresponsive-web-designwordpress-websitewordpresswebsitewebdesigne-commerce-website
+
+Project description
+Get The Gallery is a Denver-based startup replicating the membership model of Rent The Runway in the art gallery space. When they approached me to launch their site, they were experiencing the enviable dilemma of having press requests pile up before the logo was even finalized. I worked closely with Get The Gallery to ensure the user experience launched for their waiting audience would fulfill all expectations, from creating a memorable first impression to converting memberships to prove the concept. Project features included:
+
+✅ New brand launch
+✅ Subscription eCommerce
+✅ Multiple gifting options
+✅ Favorites functionality to boost signup incentive
+✅ Artwork and Artist database management
+✅ Adaptive gallery displays
+
+Click the project URL link below for more video and images ⇩
+
+
+https://wavepoint.co/portfolio/get-the-gallery/

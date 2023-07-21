@@ -1,0 +1,32 @@
+Web Design Deliverables
+Style GuideWebsite RedesignLanding PageWebsite
+Web Design Skills
+Graphic DesignResponsive DesignWeb DevelopmentSEO
+UX/UI Design Software
+Adobe IllustratorAdobe Photoshop
+Website Builders & CMS Platforms
+WordPress
+WordPress Plugins & Tools
+WP RocketContact Form 7Yoast SEO
+Web Design Languages
+JavaScriptPHPCSSHTML5CSS 3HTML
+Business Size Experience
+Business with 1-9 Employees
+Project description
+The futurist author and speaker Daniel Levine asked me to help him create a memorable online destination for his audience. His existing site did not convey the modern, captivating experience he imagined and he trusted me to intuit his vision. In addition to a dynamic redesign + redevelopment of his official site, I built a library of password-protected landing pages he could customize himself for different audiences. 
+
+Project features included:
+
+✅ Unique hero videos across main pages
+✅ Dynamic scroll effects
+✅ Animating testimonials
+✅ Comprehensive PDF press library
+✅ Password-protected landing pages for segmented audiences
+✅ Sticky elements
+
+⭐️⭐️⭐️⭐️⭐️ "I needed a modern website design that reflects my work as a futurist while still being easy to use. Stephen created a visual experience for my audience that met my high demands while making the backend easy to manage and extend on my own. When we launched I felt I'd traded up to the Maserati of websites." ~ Daniel Levine
+
+Click the project URL link below for more video and images ⇩
+
+
+https://wavepoint.co/portfolio/daniel-levine/

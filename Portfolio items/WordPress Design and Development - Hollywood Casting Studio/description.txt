@@ -1,0 +1,27 @@
+Web Design Deliverables
+Style GuideWebsite RedesignLanding PageWebsite
+Web Design Skills
+Graphic DesignResponsive DesignWeb DevelopmentSEO
+UX/UI Design Software
+Adobe IllustratorAdobe Photoshop
+Website Builders & CMS Platforms
+WordPress
+WordPress Plugins & Tools
+WP RocketContact Form 7Yoast SEO
+Web Design Languages
+JavaScriptPHPCSSHTML5CSS 3HTML
+Business Size Experience
+Business with 1-9 Employees
+
+Project description
+Among the most respected commercial casting agencies in Hollywood, Dowd-Roman Casting had an old website that wouldn't play on mobile and a previous webmaster who was unresponsive. They asked me to design and build something creative, humorous, and reflective of their unique personalities that would look great on phones as well. Project features included:
+
+✅ Extensive use of video, animation, and portfolio images
+✅ Out of the box creative objectives met with dynamic, engaging, and witty content
+✅ Long-scrolling one-pager with a focus on presenting top work and fielding inquiries
+✅ Video showcase with responsive grid layout and modal lightbox carousel
+
+Click the project URL link below for more video and images ⇩
+
+
+https://wavepoint.co/portfolio/dowd-roman-casting/

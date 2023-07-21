@@ -1,0 +1,31 @@
+Full Stack Development Deliverables
+Web Development
+Content Writing Deliverables
+Website Content
+Front-End Development Deliverables
+Web Design
+Social Media Platform Type
+Social Media Website
+CMS Customization Deliverables
+Website Customization
+CMS Development Deliverables
+Website RedesignWebsiteWebsite Migration
+Mobile Design Skills
+Responsive Design
+Programming Languages
+PHPHTML
+Website Builders & CMS Platforms
+WordPress
+
+Project description
+❍ Challenge
+A healthcare analytics startup revolutionizing mobile data capture needed a website that explained their mission, simplified the presentation of their technology offering, and established them as a trustworthy data partner.
+
+❑ Solution
+Expert use of the brand's custom abstract graphics and icons helped create an online environment that conveys the gravitas required for the topic of medical data while communicating an overall approachability and ease of use.
+
+✰ Outcome
+The venture's website announces its academic credentials and current studies, invites new users to explore the product offering, and simultaneously launches a parallel podcast that showcases product demonstrations and successes.
+
+
+https://wavepoint.co

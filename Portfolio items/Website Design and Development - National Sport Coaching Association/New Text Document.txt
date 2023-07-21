@@ -1,0 +1,33 @@
+Full Stack Development Deliverables
+Web Development
+Full Stack Development Skills
+Website Security
+Content Writing Deliverables
+Website Content
+Front-End Development Deliverables
+Web DesignWordPress Development
+Social Media Platform Type
+Social Media Website
+CMS Customization Deliverables
+Website Customization
+CMS Development Deliverables
+Website RedesignWebsite
+Mobile Design Skills
+Responsive Design
+Programming Languages
+PHPCSSHTML
+Website Builders & CMS Platforms
+WordPress
+
+
+Project description
+❍ Challenge
+A major footwear company partnered with a national sport coaching association to offer an independent membership experience. They had little in the way of content and the key differentiators of the brand had not been identified.
+
+❑ Solution
+A comprehensive content solution derived from the questionnaire method lays out the association's mission and clearly defines what set it apart from alternatives. A backend makes updates and event publishing a snap.
+
+✰ Outcome
+The association now boasts of a better-designed website than any of its competitors, and its team manages a technology solution on the backend that allows both event ticket selling and annual recurring (subscription) membership payments.
+
+https://wavepoint.co

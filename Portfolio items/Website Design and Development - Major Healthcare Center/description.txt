@@ -1,0 +1,33 @@
+Full Stack Development Deliverables
+Website OptimizationWeb Development
+Full Stack Development Skills
+Website Security
+Content Writing Deliverables
+Website Content
+Front-End Development Deliverables
+Web DesignWordPress Development
+Social Media Platform Type
+Social Media Website
+CMS Customization Deliverables
+Website Customization
+CMS Development Deliverables
+Website RedesignWebsiteWebsite Migration
+Mobile Design Skills
+Responsive Design
+Programming Languages
+PHPHTML
+Website Builders & CMS Platforms
+WordPress
+
+Project description
+❍ Challenge
+A leading southern California neurological center had an outdated and inaccessible website. They needed a redesign and redevelopment from the ground up with a turnkey solution for future in-house management.
+
+❑ Solution
+A dynamic user experience guides visitors through a color scheme that conveys the cutting-edge nature of the center's various treatments. A refined architecture makes it easy for patients to book appointments, review doctors, and connect with the center directly in a seamless warm handoff.
+
+✰ Outcome
+All of the client's pain points from the previous incarnation were resolved, most notably with a clear presentation of the various center locations. A state-of-the-art WordPress infrastructure is managed and updated in-house.
+
+
+https://wavepoint.co
